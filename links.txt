@@ -1,0 +1,7 @@
+link1 = https://tudomamaes.com/collections/roupa-infantil
+link2 = https://tudomamaes.com/collections/roupa-infantil/products/vestido-bale-luxo-tudo-mamaes
+base_link = https://tudomamaes.com
+link3 = https://tudomamaes.com/products/vestido-bale-classico-tudo-mamaes.js
+link4 = https://tudomamaes.com/products/vestido-bale-classico-tudo-mamaes
+
+https://tudomamaes.com/collections/colecao-natal/products/vestido-bale-encanta-tudo-mamaes

@@ -1,0 +1,21 @@
+# Test your FastAPI endpoints
+
+POST http://127.0.0.1:8000/categories
+Accept: application/json
+Content-Type: application/json
+
+{
+  "url": "https://tudomamaes.com/collections/roupa-infantil"
+}
+
+###
+
+POST http://127.0.0.1:8000/product
+Accept: application/json
+Content-Type: application/json
+
+{
+  "url": "https://tudomamaes.com/products/vestido-bale-classico-tudo-mamaes"
+}
+
+###
